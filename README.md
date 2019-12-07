@@ -1,5 +1,10 @@
 # fake_new_competition
-假新闻预测竞赛
+假新闻预测竞赛，地址：https://www.biendata.com/competition/falsenews_3/
+
+## 最终结果
+Rank 6
+https://www.biendata.com/competition/falsenews_3/final-leaderboard/
+
 
 ## 说明
 - 所依赖的深度学习框架：pytorch1.0
