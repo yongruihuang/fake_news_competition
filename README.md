@@ -1,4 +1,4 @@
-# fake_new_competition
+# fake_news_competition
 假新闻预测竞赛，地址：https://www.biendata.com/competition/falsenews_3/
 
 ## 最终结果
